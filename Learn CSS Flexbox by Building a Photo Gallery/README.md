@@ -1,4 +1,4 @@
-# Galeria de Fotos com Flexbox
+# CSS Flexbox Photo Gallery
 
 Este projeto é uma galeria de fotos responsiva utilizando CSS Flexbox. O objetivo é demonstrar o uso de Flexbox para criar um layout de galeria que se ajusta dinamicamente ao tamanho da tela.
 
