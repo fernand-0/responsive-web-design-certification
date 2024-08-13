@@ -1,6 +1,6 @@
 # Responsive Web Design Certification - freeCodeCamp
 
-Certificação com a finalidade de compreensão básica de HTML (linguagem de marcação) e CSS (linguagem de estilos).
+Certificação com a finalidade de compreensão básica de HTML e CSS.
 
 Cursos com a didática dirigida e em sua língua nativa (inglês).
 
@@ -14,3 +14,5 @@ Cursos com a didática dirigida e em sua língua nativa (inglês).
 - Learn CSS Flexbox by Building a Photo Gallery
 - Learn Typography by Building a Nutrition Label
 - Learn Accessibility by Building a Quiz
+- Learn More About CSS Pseudo Selectors by Building a Balance Sheet
+- Learn Intermediate CSS by Building a Cat Painting
